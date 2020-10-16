@@ -25,4 +25,6 @@ CalculateTableValues(Maths) --> Returns 33
 ----------------
 --[[
     This one is not the best and not the worst.
+    It serves its purpose and does it's job but
+    I'm sure there's a better way to do this.
 ]]--
